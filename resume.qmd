@@ -6,17 +6,16 @@ title: Laurin vasquez's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/laulin-v%C3%A1squez/?skipRedirect=true">LinkedIn Profile</a>
+| <a href="https://stock-dashboard-juz4at5enzs6k4gwsi3yxp.streamlit.app/">Stock Dashboard</a>
 </div>
 
 
 ## Currently
 
 Assistant Manager and Data Analyst Specialist || Collection Specialist || Computer Science  & Engineer student || Web Developer
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 
 ### Research interests
