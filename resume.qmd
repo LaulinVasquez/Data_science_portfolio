@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Laurin vasquez's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
@@ -13,8 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
-
+Assistant Manager and Data Analyst Specialist || Collection Specialist || Computer Science  & Engineer student || Web Developer
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
