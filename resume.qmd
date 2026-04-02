@@ -2,12 +2,14 @@
 layout: cv
 title: Laurin vasquez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Laurin Vasquez
+Web developer, Computer Science student, Cambridge professor.
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/laulin-v%C3%A1squez/?skipRedirect=true">LinkedIn Profile</a>
-| <a href="https://stock-dashboard-juz4at5enzs6k4gwsi3yxp.streamlit.app/">Stock Dashboard</a>
+<div>
+ <h2>Projects:</h2>
+   <a href="https://stock-dashboard-juz4at5enzs6k4gwsi3yxp.streamlit.app/">Stock Dashboard</a>
 </div>
 
 
@@ -17,68 +19,71 @@ Assistant Manager and Data Analyst Specialist || Collection Specialist || Comput
 
 
 
-
 ### Research interests
 
-Hi this is a test
+- Data Analysis & Visualization  
+- Dashboard Development (Power BI, Excel)  
+- Web Development (Full-Stack JavaScript, React, Node.js)  
+- Real-Time Systems & WebSockets  
+- Database Management & SQL Optimization  
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2024 and present`  
+__Brigham Young University–Idaho.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Computer Science  
+- GPA: 3.88  
+- Web Development (JavaScript, TypeScript, HTML, CSS; React, Vite, Node.js, Vue, Netlify)  
+- Data Structures, Algorithms, and Object-Oriented Programming (Python, C#, JavaScript)  
+- Database Management (MySQL Workbench, SQL Server)  
+- Back-End Development (JavaScript, TypeScript, Python, C#)  
+- WebSocket Handling  
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2025`  
+Vasquez L, Data-driven dashboards for operational efficiency using Python and Power BI. (Stock Dashboard)  
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2026`  
+Real-time dashboard system for monitoring performance metrics using WebSockets and Power BI, patent pending  
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Present`  
+__Brigham Young University–Idaho__, Rexburg, ID  
 
-- Warden
-- Minted coins
+- Assistant Manager — Data Analytics Specialist / Supervisor for Online Teaching Assistants
+- Analyzed operational data using Python and R to generate reports  
+- Built Excel and Power BI dashboards for KPI tracking  
+- Supervised and trained student teams 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Previous`  
+__Brigham Young University–Idaho__, Rexburg, ID  
+
+- Assistant Manager — Logistics Specialist / Supervisor  
+- Managed logistics operations, inventory tracking, and scheduling  
+- Led teams and improved workflow efficiency  
+
+`Previous`  
+__Scotia GBS (Scotiabank Group)__, Santo Domingo, Dominican Republic  
+
+- Collections Specialist  
+- Managed CRM systems and tracked customer accounts  
+- Built dashboards and reduced reporting time by 30%  
+- Queried SQL databases for performance insights  
+
 
 
 
